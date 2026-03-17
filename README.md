@@ -1,7 +1,7 @@
 # YouTube Subscriptions Cleaner
 
 A minimal Chrome extension that hides the **Shorts** and **Most Relevant** shelves
-on the YouTube subscriptions page — keeping your feed clean and chronological.
+on the YouTube subscriptions page — Taking you immediately to your subscription feed
 
 ## Before
 
@@ -13,8 +13,7 @@ on the YouTube subscriptions page — keeping your feed clean and chronological.
 
 ## Why
 
-YouTube's recent update added two new shelves to the subscriptions feed that
-interrupt the chronological video list. This extension simply hides them.
+YouTube's recent update added two new shelves to the subscriptions feed that is annoying. This extension simply hides them.
 
 ## Installation
 
