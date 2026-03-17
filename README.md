@@ -3,7 +3,12 @@
 A minimal Chrome extension that hides the **Shorts** and **Most Relevant** shelves
 on the YouTube subscriptions page — keeping your feed clean and chronological.
 
+## Before
+
 ![BEFORE](assets/BEFORE.png)
+
+## AFTER
+
 ![AFTER](assets/AFTER.png)
 
 ## Why
